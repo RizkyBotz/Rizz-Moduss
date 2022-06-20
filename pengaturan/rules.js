@@ -6,15 +6,15 @@ const rules = (prefix, botname) => {
 return `*_RULES BOT_*
 
 1. Jangan spam bot. 
-Sanksi: *GUA BLOK AJG*
+Sanksi: *BLOCK*
 
 2. Jangan telepon bot.
-Sanksi: *GUA BLOK TAPI KLO CEWE GPP*
+Sanksi: *BLOCK/WARN*
 
 3. Jangan memnghina/menghujat bot.
-Sanksi: *GUA BLOK NOMER LU + WAR SANTED*
+Sanksi: *GW KENONIN WHATSAPP LU!*
 
-_BOT NYOLONG SC ORG/AUTO RES/WIBU AE BANGGA JANGAN SOK PRO DEK !_
+_MOHIN DI PATUHI LAH KAWAN, MAU ESCE? KETIK #sc_
 
 Jika sudah dipahami rules-nya, silakan ketik *${prefix}menu* untuk memulai!
 
